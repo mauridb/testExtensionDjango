@@ -15,7 +15,7 @@ Runserver
 python manage.py runserver
 ```
 
-##notes:
+## notes:
 
 List project-url available: <http://localhost:8000>
 
